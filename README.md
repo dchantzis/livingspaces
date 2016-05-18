@@ -30,10 +30,9 @@ Brochure website for the architectural office Living Spaces based in Athens, Gre
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://osmanchaudhary.nfshost.com/screenshots/screenshot-1.jpg)
+![Image 1](https://raw.githubusercontent.com/dchantzis/livingspaces/master/images/screenshots/screenshot-1.jpg?token=ADejneMK9ozsuXuiNEdY2oaAL9THZfKMks5XRbhCwA%3D%3D)
 
-![Image 2](http://osmanchaudhary.nfshost.com/screenshots/screenshot-2.jpg)
+![Image 2](https://raw.githubusercontent.com/dchantzis/livingspaces/master/images/screenshots/screenshot-2.jpg?token=ADejna9oZFGDMbJIllgFPIOolWqJnB3mks5XRbhfwA%3D%3D)
 
-![Image 3](http://osmanchaudhary.nfshost.com/screenshots/screenshot-3.jpg)
+![Image 3](https://raw.githubusercontent.com/dchantzis/livingspaces/master/images/screenshots/screenshot-3.jpg?token=ADejnbCvO5ggpvn81ZaQDSQjiBVVEaveks5XRbhtwA%3D%3D)
 
-![Image 4](http://osmanchaudhary.nfshost.com/screenshots/screenshot-4.jpg)
